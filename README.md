@@ -31,3 +31,7 @@ Name:
 ![german for forget is vergessen](res/name1.png)
 
 ![pun on Go and translate back](res/name2.png)
+
+## License
+
+See [LICENSE.md](./LICENSE.md). You can view the license’s history [here](https://git.sr.ht/~boringcactus/fafol/tree/master/LICENSE.md).
